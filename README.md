@@ -1,6 +1,6 @@
 # Amazon-Clone - (Font Page)
 
-<h1>Author</h1>
+<h3>Author</h3>
 <ul>
 <li>Papon Sarker</li>
 <li>Mahadi Hasan</li>
